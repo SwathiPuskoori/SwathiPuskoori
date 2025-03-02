@@ -68,8 +68,8 @@
 	&nbsp;
 	
 </div>
-  <img src="https://github-profile-trophy.vercel.app/?username=SwathiPuskoori&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 
 <br clear="both">
 
 <img src="https://cdn.jsdelivr.net/gh/SwathiPuskoori/SwathiPuskoori@main/snake.svg" alt="Snake animation" />
+<img src="https://github-profile-trophy.vercel.app/?username=SwathiPuskoori&theme=dracula&no-frame=false&no-bg=false"/>
