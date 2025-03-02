@@ -66,9 +66,9 @@
 	&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwathiPuskoori&theme=dracula&hide_border=false" />
 	&nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=SwathiPuskoori&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 	
 </div>
+  <img src="https://github-profile-trophy.vercel.app/?username=SwathiPuskoori&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 
 <br clear="both">
 
