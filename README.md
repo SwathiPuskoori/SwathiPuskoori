@@ -1,4 +1,4 @@
-# Welcome to [Chenglong's/Oskar's](https://clwuyang.netlify.app/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to Swathi Puskoori's profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 ###
@@ -6,20 +6,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Glad+to+see+you+here!!+;Newbie+starting+using+Github...;Here+is+my+ongoing+work%2C+take+a+peek!!!)](https://git.io/typing-svg)
 
 ## A little bit about myself
-- 🙋🏻‍♂️ I am Chenglong Wu, people also call me Oskar.
-- 🔬 I am interested in Software Engineering, Machine Learning, Deep Learning, Generative AI and Computer Vision.
+- 🙋🏻‍♂️ I am Swathi Puskoori.
+- 🔬 I am interested in Software Engineering, Full stack development.
 - 👨‍🎓 I am a graduate Computer Science student at Illinois Institute of Technology.
 &nbsp;
 ## How to reach me
-[![Linkedin Badge](https://img.shields.io/badge/-cwuyang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cwuyang/)](https://www.linkedin.com/in/cwuyang/)
-[![Gmail Badge](https://img.shields.io/badge/-cwuyang@hawk.iit.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cwuyang@hawk.iit.edu)](mailto:cwuyang@hawk.iit.edu)
-
-- 📝 [Resume](https://drive.google.com/file/d/1R7x7z9O-YMyopcB9l5gOjToMuv6czflC/view?usp=sharing)
+[![Linkedin Badge](https://img.shields.io/badge/-cwuyang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swathi-puskoori/)](https://www.linkedin.com/in/swathi-puskoori/)
+[![Gmail Badge](https://img.shields.io/badge/-cwuyang@hawk.iit.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swathipuskoori@gmail.com)](mailto:swathipuskoori@gmail.com)
   
 ## 🌱 I'm currently learning:
 - Data Structures and Algorithms on LeetCode
-- [Generative AI on Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths/183)
-- Hugging Face Deep Reinforcement Learning Course(https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+- Azure Application gateway and Internal Load balancer with Zone redundancy and Geo replica
+- Currently preparing for Azure administrator associate Certification
 ---
 
 ## 🛠️ My favorite tools
@@ -37,7 +35,6 @@
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?&logo=Python&logoColor=white"></a>
 <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?&logo=java&logoColor=white"></a>
-<a href="#"><img alt="R" src="https://img.shields.io/badge/R-276DC3?&logo=r&logoColor=white"></a>
   
 
  
