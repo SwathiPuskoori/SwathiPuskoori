@@ -67,16 +67,21 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SwathiPuskoori&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SwathiPuskoori&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+	
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SwathiPuskoori&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SwathiPuskoori&theme=dark&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwathiPuskoori&hide_progress=true&theme=cobalt)](https://github.com/SwathiPuskoori/github-readme-stats)<br/>
-![](https://github-profile-trophy.vercel.app/?username=SwathiPuskoori&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/>
-[![](https://visitcount.itsvg.in/api?id=SwathiPuskoori&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
+
 
 <br clear="both">
 
 <img src="https://cdn.jsdelivr.net/gh/SwathiPuskoori/SwathiPuskoori@main/snake.svg" alt="Snake animation" />
 
 
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dhawalnegi1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dhawalnegi1&theme=dark&hide_border=false)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhawalnegi1&hide_progress=true&theme=cobalt)](https://github.com/shardulchavan/github-readme-stats)<br/>
+![](https://github-profile-trophy.vercel.app/?username=dhawalnegi1&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br/>
+[![](https://visitcount.itsvg.in/api?id=dhawalnegi1&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
