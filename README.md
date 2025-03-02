@@ -1,18 +1,13 @@
 # Welcome to Swathi Puskoori's profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-
-###
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Glad+to+see+you+here!!+;Newbie+starting+using+Github...;Here+is+my+ongoing+work%2C+take+a+peek!!!)](https://git.io/typing-svg)
-
 ## A little bit about myself
 - 🙋🏻‍♂️ I am Swathi Puskoori.
 - 🔬 I am interested in Software Engineering, Full stack development.
 - 👨‍🎓 I am a graduate Computer Science student at Illinois Institute of Technology.
 &nbsp;
 ## How to reach me
-[![Linkedin Badge](https://img.shields.io/badge/-cwuyang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swathi-puskoori/)](https://www.linkedin.com/in/swathi-puskoori/)
-[![Gmail Badge](https://img.shields.io/badge/-cwuyang@hawk.iit.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swathipuskoori@gmail.com)](mailto:swathipuskoori@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-SwathiPuskoori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swathi-puskoori/)](https://www.linkedin.com/in/swathi-puskoori/)
+[![Gmail Badge](https://img.shields.io/badge/-swathipuskoori@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swathipuskoori@gmail.com)](mailto:swathipuskoori@gmail.com)
   
 ## 🌱 I'm currently learning:
 - Data Structures and Algorithms on LeetCode
@@ -25,7 +20,6 @@
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="#"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -48,16 +42,9 @@
   <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white"></a>    
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?&logo=anaconda&logoColor=white"></a>
-  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?&logo=pandas&logoColor=white"></a>
 <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?&logo=scikit-learn&logoColor=white"></a>
-<a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?&logo=numpy&logoColor=white"></a>
 <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?&logo=TensorFlow&logoColor=white"></a>
 <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-263238?&logo=matplotlib&logoColor=white"></a>
-<a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?&logo=opencv&logoColor=white"></a>
-<a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?&logo=unity&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
@@ -65,24 +52,21 @@
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?&logo=eclipse&logoColor=white"></a>
-<a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00?&logo=googlecolab&color=525252"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"></a>
 <a href="#"><img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
 <a href="#"><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?&logo=amazon-aws&logoColor=white"></a>  
 <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket"></a>   
 <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure"></a>
-<a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud"></a>
 </p>
 
 ## 📊 Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clwuyang&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clwuyang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SwathiPuskoori&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SwathiPuskoori&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
