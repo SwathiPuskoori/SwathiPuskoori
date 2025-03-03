@@ -35,6 +35,9 @@
 
 <p>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+<a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-E23237?&logo=angular&logoColor=white"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?&logo=react&logoColor=black"></a>
+<a href="#"><img alt="Hibernate" src="https://custom-icon-badges.herokuapp.com/badge/Hibernate-025C8C.svg?logo=database&logoColor=white"></a>	
 <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?&logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?&logo=sqlite&logoColor=white"></a>    
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
