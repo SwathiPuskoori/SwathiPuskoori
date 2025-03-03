@@ -64,8 +64,8 @@
 </p>
 
 ---
-<p align = "center">
-    <img src="https://github-profile-trophy.vercel.app/?username=SwathiPuskoori&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="100%">
+<p align = "left">
+    <img src="https://github-profile-trophy.vercel.app/?username=SwathiPuskoori&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="100%" height="100px">
 </p>
 
 ## 🔥 Contribution Graph
